@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternetSyncConnection</string>
+    <string name="connected_txt">Connected</string>
+    <string name="disconnected_txt">Disconnected</string>
+</resources>
